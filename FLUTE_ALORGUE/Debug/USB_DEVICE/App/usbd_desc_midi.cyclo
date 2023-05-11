@@ -1,0 +1,9 @@
+usbd_desc_midi.c:219:11:USBD_HS_DeviceDescriptor	1
+usbd_desc_midi.c:232:11:USBD_HS_LangIDStrDescriptor	1
+usbd_desc_midi.c:245:11:USBD_HS_ProductStrDescriptor	2
+usbd_desc_midi.c:264:11:USBD_HS_ManufacturerStrDescriptor	1
+usbd_desc_midi.c:277:11:USBD_HS_SerialStrDescriptor	1
+usbd_desc_midi.c:298:11:USBD_HS_ConfigStrDescriptor	2
+usbd_desc_midi.c:317:11:USBD_HS_InterfaceStrDescriptor	2
+usbd_desc_midi.c:350:13:Get_SerialNum	2
+usbd_desc_midi.c:374:13:IntToUnicode	3
